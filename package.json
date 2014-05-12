@@ -1,0 +1,31 @@
+{
+    "name": "tic-tac-toe-js"
+  , "version": "0.0.1"
+  , "description": "Tic Tac Toe"
+  , "author": "benjreinhart"
+  , "engines":
+    {
+      "node": "*"
+    }
+
+  , "keywords":
+    [
+        "game"
+      , "tic"
+      , "tac"
+      , "toe"
+    ]
+
+  , "dependencies":
+    {
+    }
+
+  , "devDependencies":
+    {
+        "chai": "~1.9"
+      , "mocha": "~1.18"
+    }
+
+  , "main": "index.js"
+  , "license": "MIT"
+}
